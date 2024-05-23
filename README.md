@@ -1,1 +1,2 @@
 # go_blog_app
+SIMPLE BLOG APPLICATION WITH API
